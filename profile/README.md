@@ -16,7 +16,6 @@ Upon achieving these goals, individual points are accumulated, and each ongoing 
 Members can earn cumulative points by completing challenges and view family rankings based on their performance.
 This process turns raw data into a game-like and visually engaging experience that fosters participation and achievement within the household, extending smart homes beyond efficiency to become a data-driven yet emotionally meaningful space for family connection.
 
----
 
 ## 👥 Team Members
 | Name | Organization | Email |
@@ -26,5 +25,4 @@ This process turns raw data into a game-like and visually engaging experience th
 | Jin Yun | Department of Information Systems, Hanyang University | jinijini0402@hanyang.ac.kr |
 | Yeonsoo cho | Department of Public Administration, Hanyang University | meriel1010@hanyang.ac.kr |
 
----
 
