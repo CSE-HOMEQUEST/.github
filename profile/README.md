@@ -16,6 +16,8 @@ Upon achieving these goals, individual points are accumulated, and each ongoing 
 Members can earn cumulative points by completing challenges and view family rankings based on their performance.
 This process turns raw data into a game-like and visually engaging experience that fosters participation and achievement within the household, extending smart homes beyond efficiency to become a data-driven yet emotionally meaningful space for family connection.
 
+## 🔧 Architecture Design
+<img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
 
 ## 👥 Team Members
 | Name | Organization | Email |
