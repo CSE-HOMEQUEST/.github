@@ -5,9 +5,11 @@
 
 ## 📌 Project Proposal
 
- This study addresses the limitations of current smart home services, which primarily provide data and rely on users to take action on their own, making it difficult to promote sustained behavioral change and interaction within the family. To overcome this issue, we propose a family-centered AI challenge system that uses IoT data to deliver personalized behavioral goals and real-time feedback.
- The system integrates data from LG ThinQ devices to generate tailored challenges in household chores, energy saving, and wellness, while visualizing each member’s progress through a character-based interface that promotes participation. Users earn points by completing challenges and can view family rankings, and the accumulated data enables the AI to analyze daily patterns and offer targeted insights.
- By transforming everyday data into a game-like, immersive experience, the system enhances engagement and achievement within the household and shifts the smart home from an efficiency-focused model to an interactive environment that supports family connection and positive routines.
+   This study addresses the limitations of current smart home services, which primarily provide data and rely on users to take action on their own, making it difficult to promote sustained behavioral change and interaction within the family. To overcome this issue, we propose a family-centered AI challenge system that uses IoT data to deliver personalized behavioral goals and real-time feedback.
+ 
+   The system integrates data from LG ThinQ devices to generate tailored challenges in household chores, energy saving, and wellness, while visualizing each member’s progress through a character-based interface that promotes participation. Users earn points by completing challenges and can view family rankings, and the accumulated data enables the AI to analyze daily patterns and offer targeted insights.
+ 
+   By transforming everyday data into a game-like, immersive experience, the system enhances engagement and achievement within the household and shifts the smart home from an efficiency-focused model to an interactive environment that supports family connection and positive routines.
 
 ## 🔧 Architecture Design
 <img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
