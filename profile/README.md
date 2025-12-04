@@ -15,7 +15,8 @@
 <img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
 
 ## 🎥 Videos
-
+[![Video Label](http://img.youtube.com/vi/2QwTClgv9pJhVtBU/0.jpg)]
+(https://youtu.be/2QwTClgv9pJhVtBU)
 
 ## 👥 Team Members
 | Name | Organization | Email |
