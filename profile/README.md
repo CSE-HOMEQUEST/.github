@@ -5,16 +5,9 @@
 
 ## 📌 Project Proposal
 
-This study proposes a family-centered smart home service that transforms everyday appliance and wearable data into shared motivation and emotional connection.
-
-The system aggregates data from LG ThinQ devices, analyzes behavior patterns, and generates daily or weekly AI briefings that present both family progress and personal achievements.
-
-Through the Family Challenge System, members receive action-based goals in areas such as household chores, energy saving, and wellness.
-
-Upon achieving these goals, individual points are accumulated, and each ongoing family challenge is visualized through a character interface.
-
-Members can earn cumulative points by completing challenges and view family rankings based on their performance.
-This process turns raw data into a game-like and visually engaging experience that fosters participation and achievement within the household, extending smart homes beyond efficiency to become a data-driven yet emotionally meaningful space for family connection.
+ This study addresses the limitations of current smart home services, which primarily provide data and rely on users to take action on their own, making it difficult to promote sustained behavioral change and interaction within the family. To overcome this issue, we propose a family-centered AI challenge system that uses IoT data to deliver personalized behavioral goals and real-time feedback.
+ The system integrates data from LG ThinQ devices to generate tailored challenges in household chores, energy saving, and wellness, while visualizing each member’s progress through a character-based interface that promotes participation. Users earn points by completing challenges and can view family rankings, and the accumulated data enables the AI to analyze daily patterns and offer targeted insights.
+ By transforming everyday data into a game-like, immersive experience, the system enhances engagement and achievement within the household and shifts the smart home from an efficiency-focused model to an interactive environment that supports family connection and positive routines.
 
 ## 🔧 Architecture Design
 <img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
