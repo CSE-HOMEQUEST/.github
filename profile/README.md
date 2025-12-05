@@ -1,8 +1,6 @@
 # 🏠 HomeQuest
 >25-2 Hanyang University Software Engineering Project
-
-<img width="1920" height="1080" alt="Frame 99" src="https://github.com/user-attachments/assets/d983f662-3ea3-4949-a559-c440e6e45f79" />
-
+---
 
 ## 📌 Project Proposal
 
