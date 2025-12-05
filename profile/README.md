@@ -1,7 +1,8 @@
 # 🏠 HomeQuest
 >25-2 Hanyang University Software Engineering Project
 
----
+<img width="1920" height="1080" alt="Frame 99" src="https://github.com/user-attachments/assets/d983f662-3ea3-4949-a559-c440e6e45f79" />
+
 
 ## 📌 Project Proposal
 
@@ -15,7 +16,7 @@
 <img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
 
 ## 🎥 Videos
-
+[![HomeQuest Demo](https://img.youtube.com/vi/Z3qE4tTIy_4/maxresdefault.jpg)](https://youtu.be/Z3qE4tTIy_4)
 
 ## 👥 Team Members
 | Name | Organization | Email |
