@@ -11,7 +11,8 @@
    By transforming everyday data into a game-like, immersive experience, the system enhances engagement and achievement within the household and shifts the smart home from an efficiency-focused model to an interactive environment that supports family connection and positive routines.
 
 ## 🔧 Architecture Design
-<img width="1911" height="965" alt="architecture" src="https://github.com/user-attachments/assets/e05edc22-da30-4009-83ec-ab7e5cc65c35" />
+<img width="1730" height="965" alt="Slide 16_9 - 5 (1)" src="https://github.com/user-attachments/assets/01d3adf2-d6b8-4710-a8fd-006e2ffed417" />
+
 
 ## 🎥 Videos
 [![HomeQuest Demo](https://img.youtube.com/vi/Z3qE4tTIy_4/maxresdefault.jpg)](https://youtu.be/Z3qE4tTIy_4)
