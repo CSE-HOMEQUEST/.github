@@ -13,9 +13,23 @@
 ## 🔧 Architecture Design
 <img width="1730" height="965" alt="Slide 16_9 - 5 (1)" src="https://github.com/user-attachments/assets/01d3adf2-d6b8-4710-a8fd-006e2ffed417" />
 
+> - LG ThinQ devices send **appliance usage logs** to Firebase.  
+> - These logs are merged with **user & family activity data** from the app and preprocessed on the server.  
+> - The processed data is passed to the ML server (FastAPI), where a GBDT model predicts **which user is most likely to complete which challenge**.  
+> - Predictions are written back to Firebase and displayed in the app as **personalized challenge recommendations**.  
+> - Challenge completions and point updates are stored in Firestore and used for **family rankings, rewards, and marketplace recommendations**.  
+> - Activity logs are periodically sent to the OpenAI API to generate **AI weekly reports** (feedback, summary, next-step suggestions).  
+> - All accumulated logs contribute to **long-term behavior modeling** and iterative model improvements.
 
-## 🎥 Videos
+
+## 🎥 Demo Videos
 [![HomeQuest Demo Video](https://img.youtube.com/vi/wRn-Hax9f6s/maxresdefault.jpg)](https://youtu.be/wRn-Hax9f6s)
+
+## Links
+Presentation: [HomeQuest Presentation (Miricanvas)](https://www.miricanvas.com/v2/design2/v/1ef211b9-0cb5-4282-abcc-dcda5527c263)
+
+Documentation: [HomeQuest.pdf](https://github.com/user-attachments/files/24101862/HomeQuest.pdf)
+
 
 ## 👥 Team Members
 | Name | Organization | Email |
