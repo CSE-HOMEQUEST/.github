@@ -15,7 +15,7 @@
 
 
 ## 🎥 Videos
-[![HomeQuest Demo](https://img.youtube.com/vi/Z3qE4tTIy_4/maxresdefault.jpg)](https://youtu.be/Z3qE4tTIy_4)
+[![HomeQuest Demo Video](https://img.youtube.com/vi/wRn-Hax9f6s/maxresdefault.jpg)](https://youtu.be/wRn-Hax9f6s)
 
 ## 👥 Team Members
 | Name | Organization | Email |
