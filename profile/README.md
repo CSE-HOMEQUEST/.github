@@ -24,7 +24,7 @@
 
 
 ## 🎥 Demo Videos
-[![HomeQuest Demo Video](https://img.youtube.com/vi/wRn-Hax9f6s/maxresdefault.jpg)](https://youtu.be/wRn-Hax9f6s)
+[![HomeQuest Demo Video](https://img.youtube.com/vi/wRn-Hax9f6s/maxresdefault.jpg)](https://youtu.be/wRn-Hax9f6s?si=oE1RSOVaqYJvAouf)
 
 ## Links
 Presentation: [HomeQuest Presentation (Miricanvas)](https://www.miricanvas.com/v2/design2/v/1ef211b9-0cb5-4282-abcc-dcda5527c263)
