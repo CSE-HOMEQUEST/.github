@@ -11,7 +11,8 @@
    By transforming everyday data into a game-like, immersive experience, the system enhances engagement and achievement within the household and shifts the smart home from an efficiency-focused model to an interactive environment that supports family connection and positive routines.
 
 ## 🔧 Architecture Design
-<img width="1730" height="965" alt="Slide 16_9 - 5 (1)" src="https://github.com/user-attachments/assets/01d3adf2-d6b8-4710-a8fd-006e2ffed417" />
+<img width="7504" height="4408" alt="Slide 16_9 - 7" src="https://github.com/user-attachments/assets/d6036d63-d568-4eb3-8016-888b3540fe60" />
+
 
 > - LG ThinQ devices send **appliance usage logs** to Firebase.  
 > - These logs are merged with **user & family activity data** from the app and preprocessed on the server.  
