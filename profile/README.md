@@ -27,8 +27,8 @@
 
 ## Links
 Presentation: [HomeQuest Presentation (Miricanvas)](https://www.miricanvas.com/v2/design2/v/1ef211b9-0cb5-4282-abcc-dcda5527c263)
-[Uploading CSE_PublicPPT.pdf…]()
 
+[CSE_PublicPPT.pdf](https://github.com/user-attachments/files/24102327/CSE_PublicPPT.pdf)
 
 Documentation: [HomeQuest.pdf](https://github.com/user-attachments/files/24101862/HomeQuest.pdf)
 
